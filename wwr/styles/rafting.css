@@ -1,11 +1,9 @@
-@import ('https://fonts.google.com/specimen/Crimson+Text?categoryFilters=Serif:%2FSerif%2FOld+Style+Garalde')
-@import ('https://fonts.google.com/specimen/Crimson+Text?categoryFilters=Serif:%2FSerif%2FOld+Style+Garalde')
+@import url('https://fonts.google.com/specimen/Crimson+Text?categoryFilters=Serif:%2FSerif%2FOld+Style+Garalde') ;
+@import url('https://fonts.google.com/specimen/Roboto+Condensed?query=roboto');
 
-
-
- {
-    margin:auto;
-    padding:auto
+* {
+    margin: auto;
+    padding: auto;
 }
 
 :root {
