@@ -1,28 +1,21 @@
-@import url ('https://fonts.google.com/specimen/Crimson+Text?categoryFilters=Serif:%2FSerif%2FOld+Style+Garalde')
-@import url ('https://fonts.google.com/specimen/Roboto')
-@import url ('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;9007family=Roboto;wght@400;700%display=swap')
+@import ('https://fonts.google.com/specimen/Crimson+Text?categoryFilters=Serif:%2FSerif%2FOld+Style+Garalde')
+@import ('https://fonts.google.com/specimen/Crimson+Text?categoryFilters=Serif:%2FSerif%2FOld+Style+Garalde')
 
 
 
-* {
-    margin: auto;
-    padding: auto;
+ {
+    margin:auto;
+    padding:auto
 }
 
 :root {
-    --primary-color:
-    --secondary-color: 
-    --accent1-color: 
-    --accent2-color: 
-    --accent3-color: 
-    --heading2-font: 
-    --paragraph2-font: 
-    --heading-font: 
-    --paragraph-font: 
-    --nav-background-color:
-    --nav-link-color: 
-    --nav-hover-background-color: 
-    --nav-hover-link-color: 
+    --primary-color:#216869
+    --secondary-color:#9CC5A1
+    --accent1-color:#DCE1DE
+    --accent2-color:#1F2421
+    --paragraph2-font:'Old Style'
+    --heading-font:'Roboto'
+    --paragraph-font:'Old Style'
 }
 
 h1 {
