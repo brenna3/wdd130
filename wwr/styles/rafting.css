@@ -25,7 +25,7 @@ body {
     background-color: #70A1D7;
   }
   img {
-    display: block;
+    display: hero-box;
     margin: 0 auto;
     max-width: 300px;
   }
