@@ -9,7 +9,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #82d0e7;
+    background-color: #216869;
 }
 
 .container {
@@ -24,9 +24,9 @@ header {
     display: grid;
     grid-template-columns: 120px 1fr 2fr;
     align-items: center;
-    border-bottom: 1px solid #13629f;
+    border-bottom: 1px solid #216869;
     max-width: 1000px;
-    background-color: #13629f;
+    background-color: #9CC5A1;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -56,7 +56,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #0066cc;
+    color: #9CC5A1;
     font-weight: 700;
     text-decoration: underline;
 }
@@ -153,7 +153,7 @@ section {
 }
 
 section h2 {
-    color: #333;
+    color: #1F2421;
     margin-bottom: 20px;
     font-weight: 100;
     font-size: 2rem;
@@ -161,7 +161,7 @@ section h2 {
 
 section p {
     line-height: 1.6;
-    color: #666;
+    color: #1F2421;
 }
 
 /* History Section Specific */
@@ -200,7 +200,7 @@ section p {
 
 /* Adventure Section Specific */
 .adventure {
-    background-color: #f5f5f5;
+    background-color: #DCE1DE;
 }
 
 .adventure img {
@@ -242,13 +242,13 @@ section p {
 .adventure-gallery figcaption {
     margin-top: 10px;
     font-size: 1rem;
-    color: #333;
+    color: #DCE1DE;
     font-weight: 600;
 }
 
 /* Footer Styles */
 footer {
-    background-color: #ff9900;
+    background-color:#9CC5A1;
     padding: 30px;
     border-radius: 5px;
     display: flex;
@@ -259,7 +259,7 @@ footer {
 }
 
 footer p {
-    color: #333;
+    color: #DCE1DE;
 }
 
 .social-links {
